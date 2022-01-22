@@ -104,7 +104,7 @@ class Game extends React.Component {
     if (winner) {
       status = `Winner: ${winner}!`;
     } else {
-      status = `Tie Game! Next Player: ${this.state.xIsNext ? "X" : "O"}`;
+      status = `Next Player: ${this.state.xIsNext ? "X" : "O"}`;
     }
 
     return (
