@@ -21,7 +21,7 @@ I wanted practice with React, and I thought what better way than a tutorial from
 
 ## Link to Deployed
 
-N/A
+https://react-tac-toe002.herokuapp.com/
 
 ## Installation
 
